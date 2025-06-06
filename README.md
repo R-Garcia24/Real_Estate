@@ -44,6 +44,7 @@ An interactive dashboard was created in Tableau Public to visualize:
 - **Average Cap Rate by Property Type**
 - Insight callouts and business interpretation
 
+**View the full interactive dashboard on Tableau Public:** [Real Estate Insight Dashboard](https://public.tableau.com/views/Real_Estate_Insight/RealEstateInsight?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Findings
 
